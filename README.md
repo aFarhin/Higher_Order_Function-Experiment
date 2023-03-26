@@ -3,7 +3,7 @@
 
 
     
-        Here I will write two different ways to write a programme-
+        Here I have written two different ways to write a programme-
 
         Tasks to do:
         An array of 5 boxex are given, where in each box there are different number of apples. we have to do 3 tasks on
